@@ -1,0 +1,10 @@
+G:\PRG\C#\Test_Formulare\Test_Formulare\bin\Debug\Test_Formulare.exe.config
+G:\PRG\C#\Test_Formulare\Test_Formulare\bin\Debug\Test_Formulare.exe
+G:\PRG\C#\Test_Formulare\Test_Formulare\bin\Debug\Test_Formulare.pdb
+G:\PRG\C#\Test_Formulare\Test_Formulare\obj\Debug\Test_Formulare.csproj.AssemblyReference.cache
+G:\PRG\C#\Test_Formulare\Test_Formulare\obj\Debug\Test_Formulare.Form1.resources
+G:\PRG\C#\Test_Formulare\Test_Formulare\obj\Debug\Test_Formulare.Properties.Resources.resources
+G:\PRG\C#\Test_Formulare\Test_Formulare\obj\Debug\Test_Formulare.csproj.GenerateResource.cache
+G:\PRG\C#\Test_Formulare\Test_Formulare\obj\Debug\Test_Formulare.csproj.CoreCompileInputs.cache
+G:\PRG\C#\Test_Formulare\Test_Formulare\obj\Debug\Test_Formulare.exe
+G:\PRG\C#\Test_Formulare\Test_Formulare\obj\Debug\Test_Formulare.pdb
